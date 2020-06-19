@@ -25,7 +25,7 @@
 
 4. `git push origin week1 ` 把本地端的 week1 推到遠端 github
 
-5. 發一個`pull requests`，去學習系統的作業列表，新增作業，連結貼 pull requests 的連結
+5. 發一個 `pull requests`，去學習系統的作業列表，新增作業，連結貼 pull requests 的連結
 
 6. 等助教批改並 merge 後，自己到本地切到 master，然後`git pull origin master` 再把遠端跟本地的 master 同步
 
